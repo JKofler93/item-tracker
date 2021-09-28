@@ -1,8 +1,7 @@
 import * as types from "./actionTypes";
 
 const initialState = {
-  items: [],
-  item: {}
+  items: []
 }
 
 const itemsReducers = (state = initialState, action) => {
@@ -14,12 +13,6 @@ const itemsReducers = (state = initialState, action) => {
         ...state,
         items: action.payload
     };
-
-  case types.GET_ITEM:
-    return {
-        ...state,
-        item: action.payload,
-      };
 
   default:
       return state;

@@ -6,11 +6,6 @@ const getItems = (items) => ({
   payload: items,
 });
 
-const getItem = (item) => ({
-  type: types.GET_ITEM,
-  payload: item,
-});
-
 const assignUpdate = () => ({
   type: types.ASSIGN_ITEM,
 });
@@ -31,19 +26,6 @@ export const loadItems = () => {
           .then(res => {
               // console.log("res:", res.data)
               dispatch(getItems(res.data));
-          })
-          .catch(error => console.log(error))
-  };
-};
-
-
-export const getSingleItem = (id) => {
-  return function (dispatch) {
-      axios
-          .get(`http://localhost:8000/checklist_items/${id}`)
-          .then(res => {
-              console.log("Single Item:", res.data)
-              dispatch(getItem(res.data));
           })
           .catch(error => console.log(error))
   };
