@@ -223,7 +223,7 @@ For this exercise, assume that authentication has already been handled and the a
 
 With the above in mind, the team member must be able to:
 
-<!-- - View a list of items
+- View a list of items
   - Each item must display the `provider`, `model`, `serial`, `status` and the appropriate timestamp:
     - Unassigned items should display the `created_at` timestamp
     - Assigned items should display the `assigned_at` timestamp
@@ -231,7 +231,7 @@ With the above in mind, the team member must be able to:
 - Act on any item to change its `status` using the API
   - Unassigned item must have an `Assign To Me` action
   - Assigned items must have an `Unassign` and `Complete` actions
-  - Completed items must have an `Unassign` action -->
+  - Completed items must have an `Unassign` action
 
 ### Task 2: Choose Your Enhancement
 
@@ -240,11 +240,11 @@ To further delight our team, we want to provide them with at least one additiona
 The team hopes to have one of these features in the prototype (not in any priority order): 
 
 - Filter the list of items to a specific provider by name
-<!-- - Filter the list of items to a specific status -->
-<!-- - Visually distinguish between "Active" and "Completed" items -->
-  <!-- - Active items are those which are in `unassigned` or `assigned` status -->
-  <!-- - Completed items are those which are in `completed` status -->
-<!-- - View all of the details for a specific item -->
+- Filter the list of items to a specific status
+- Visually distinguish between "Active" and "Completed" items
+  - Active items are those which are in `unassigned` or `assigned` status
+  - Completed items are those which are in `completed` status
+- View all of the details for a specific item
 
 ### Submission
 
