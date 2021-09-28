@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import { useHistory } from 'react-router';
 import { withStyles, makeStyles } from '@material-ui/core/styles';
 import Table from '@material-ui/core/Table';
 import TableBody from '@material-ui/core/TableBody';
@@ -39,13 +38,10 @@ const useStyles = makeStyles({
   },
 });
 
-// { items, assignItem, unassignItem,  completeItem, fetchItems }
 function Items() {
   const [filter, setFilter] = useState("");
-  const [clicked, setClicked] = useState(false)
 
 
-  // let history = useHistory()
 
   let dispatch = useDispatch()
   const { items } = useSelector(state => state.data)
@@ -94,11 +90,9 @@ function Items() {
         return items.filter(item => item.provider.toLowerCase().includes(filter.toLowerCase()) || item.serial.includes(filter))
 
       default:
-        return items
+        return null
     }
   }
-
-  // console.log(search)
 
   const decideButtons = (id, status) => {
     switch (status) {
