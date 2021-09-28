@@ -1,0 +1,171 @@
+.App {
+  margin: 0 auto;
+  max-width: fit-content;
+}
+
+.reset-button {
+  background-color: #c30;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.unassign-button {
+  background-color: #df4759;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+}
+.unassign-button:hover {
+  filter: brightness(85%);
+}
+
+.complete-button {
+  background-color: #03c04a;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+}
+.complete-button:hover {
+  filter: brightness(85%);
+}
+
+.assign-button {
+  background-color: #24a0ed;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+}
+.assign-button:hover {
+  filter: brightness(85%);
+}
+
+.view-button {
+  background-color: #42ba96;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+}
+.view-button:hover {
+  filter: brightness(85%);
+}
+
+.reset {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.home-button {
+  background-color: #c30;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+}
+.home-button:hover {
+  filter: brightness(85%);
+}
+
+#active {
+  color: red;
+  font-size: 20px;
+}
+
+#completed {
+  color: green;
+  font-size: 20px;
+}
+
+.question-mark {
+  cursor: pointer;
+}
+
+#table-head {
+  font-size: 18px;
+}
+
+#item-info {
+  font-size: 20px;
+}
+
+.provider-search-bar {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 20px;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: 600;
+  height: 30px;
+  width: 300px;
+}
+
+.provider-search-bar input {
+  height: 100%;
+  width: 25vw;
+  border-radius: 15px;
+  padding-left: 15px;
+}
+
+.legend {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.legend p {
+  margin: 10px 10px;
+}

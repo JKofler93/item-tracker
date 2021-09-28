@@ -1,0 +1,551 @@
+---
+- :id: 945ed10dc1d04778b8fe8a87249af305
+  :provider: Kory T
+  :model: iPad Pro (12.9-inch)
+  :serial: 49c3f7eb14f5
+  :status: completed
+  :assigned_at: '2021-09-28T17:37:50Z'
+  :assigned_to: Sarah T
+  :completed_at: '2021-09-28T17:37:59Z'
+  :completed_by: Sarah T
+  :created_at: '2021-09-21T01:11:51Z'
+  :updated_at: '2021-09-28T17:37:59Z'
+- :id: 3a9a59c6da5844ddb0737109b64b9ca9
+  :provider: Brendan F
+  :model: iPad Air 2
+  :serial: bf8d14d7d99df78621e2
+  :status: assigned
+  :assigned_at: '2021-09-28T17:27:22Z'
+  :assigned_to: Sarah T
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-20T01:33:32Z'
+  :updated_at: '2021-09-28T17:27:22Z'
+- :id: 23947a2712524e3bb2cb44de65a84503
+  :provider: Dorothy M
+  :model: iPad Pro (12.9-inch)
+  :serial: 40c7f5ca6b4f
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-16T14:58:22Z'
+  :updated_at: '2021-09-26T15:18:36Z'
+- :id: babf5c38bf734e45a86335a85bf0b451
+  :provider: Jay D
+  :model: iPad Pro (12.9-inch)
+  :serial: abb687b9f4297fce87ef
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-13T22:57:32Z'
+  :updated_at: '2021-09-13T22:57:32Z'
+- :id: ead49332588e4ec6b7a0102be573ec8e
+  :provider: Jay D
+  :model: iPad (5th generation)
+  :serial: 423fa431ccc4
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-19T18:31:13Z'
+  :updated_at: '2021-09-19T18:31:13Z'
+- :id: 37f4496cd7d64f6f84cd66473a0132f4
+  :provider: Jamie K
+  :model: iPad Pro (11-inch)
+  :serial: ad7fab0bf1436594caf0
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-22T15:09:40Z'
+  :updated_at: '2021-09-26T16:00:35Z'
+- :id: 69cc9c253018457592fc93147052a61d
+  :provider: Saul B
+  :model: iPad Air 2
+  :serial: 4ad0b7d388d1
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-17T19:11:15Z'
+  :updated_at: '2021-09-26T16:00:38Z'
+- :id: 9ebc849733bd45b089765d8f14c46871
+  :provider: Cherilyn V
+  :model: iPad (5th generation)
+  :serial: 9f350bf16a3c5728c4bc
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-18T20:02:16Z'
+  :updated_at: '2021-09-26T15:18:30Z'
+- :id: 4ccc3b61c3b04d10bdae4dac9c299d2e
+  :provider: Kory T
+  :model: iPad Air 2
+  :serial: 45b51f2c0536
+  :status: completed
+  :assigned_at: '2021-09-15T01:01:04Z'
+  :assigned_to: Noel A
+  :completed_at: '2021-09-15T12:14:40Z'
+  :completed_by: Noel A
+  :created_at: '2021-09-14T07:00:52Z'
+  :updated_at: '2021-09-15T12:14:40Z'
+- :id: dea8ae2f8f7648eaae1abd76d9a2c891
+  :provider: Brendan F
+  :model: iPad (6th generation)
+  :serial: 92531401383db658fc0b
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-23T21:14:34Z'
+  :updated_at: '2021-09-23T21:14:34Z'
+- :id: a7f45306031e43f39572d7443dabac6e
+  :provider: Jamie K
+  :model: iPad Air (3rd generation)
+  :serial: 4cd0e3894362
+  :status: completed
+  :assigned_at: '2021-09-16T06:43:00Z'
+  :assigned_to: Sarah T
+  :completed_at: '2021-09-16T14:37:56Z'
+  :completed_by: Sarah T
+  :created_at: '2021-09-15T16:07:47Z'
+  :updated_at: '2021-09-16T14:37:56Z'
+- :id: '093b4447bdf64e56a627f3822d134190'
+  :provider: Graham N
+  :model: iPad Pro (12.9-inch)
+  :serial: a9a4c1b5619c9d974f49
+  :status: completed
+  :assigned_at: '2021-09-22T20:01:02Z'
+  :assigned_to: Dustin C
+  :completed_at: '2021-09-26T15:18:34Z'
+  :completed_by: Sarah T
+  :created_at: '2021-09-22T09:16:04Z'
+  :updated_at: '2021-09-26T15:18:34Z'
+- :id: 25938b7c0a6e48e9964f8ed150385268
+  :provider: Graham N
+  :model: iPad (5th generation)
+  :serial: 44b5b7936adc
+  :status: completed
+  :assigned_at: '2021-09-17T14:28:52Z'
+  :assigned_to: Eli B
+  :completed_at: '2021-09-18T01:06:25Z'
+  :completed_by: Eli B
+  :created_at: '2021-09-17T03:11:46Z'
+  :updated_at: '2021-09-18T01:06:25Z'
+- :id: '0038326d35f9405099c070c7816eedf6'
+  :provider: Kory T
+  :model: iPad Pro (11-inch)
+  :serial: 902608a6b6a6efcdf7ae
+  :status: completed
+  :assigned_at: '2021-09-25T00:50:42Z'
+  :assigned_to: Eli B
+  :completed_at: '2021-09-25T10:23:18Z'
+  :completed_by: Eli B
+  :created_at: '2021-09-24T13:35:19Z'
+  :updated_at: '2021-09-25T10:23:18Z'
+- :id: e9d1cc5d48bc4a5dbfd74ca7c9f91720
+  :provider: Abbey L
+  :model: iPad Air (3rd generation)
+  :serial: 4da4b532e760
+  :status: completed
+  :assigned_at: '2021-09-12T21:07:21Z'
+  :assigned_to: Sarah T
+  :completed_at: '2021-09-26T16:00:45Z'
+  :completed_by: Sarah T
+  :created_at: '2021-09-12T03:24:34Z'
+  :updated_at: '2021-09-26T16:00:45Z'
+- :id: 5f3789048bcd4488a156834d0a88c88f
+  :provider: Cherilyn V
+  :model: iPad Air 2
+  :serial: 98bcafa2272395005f01
+  :status: assigned
+  :assigned_at: '2021-09-20T11:25:41Z'
+  :assigned_to: Jane H
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-19T20:17:08Z'
+  :updated_at: '2021-09-20T11:25:41Z'
+- :id: a3e6a649000a48e2bc4273305a00f4c1
+  :provider: Alison E
+  :model: iPad Pro (11-inch)
+  :serial: 49b06f3a0ab2
+  :status: completed
+  :assigned_at: '2021-09-20T08:33:53Z'
+  :assigned_to: Noel A
+  :completed_at: '2021-09-20T19:51:41Z'
+  :completed_by: Noel A
+  :created_at: '2021-09-19T19:07:51Z'
+  :updated_at: '2021-09-20T19:51:41Z'
+- :id: 452df7ba3d1d4d5e90d815ab0f28fca5
+  :provider: Graham N
+  :model: iPad (5th generation)
+  :serial: aa1e70b8267968131964
+  :status: assigned
+  :assigned_at: '2021-09-21T13:31:23Z'
+  :assigned_to: Jane H
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-20T22:48:51Z'
+  :updated_at: '2021-09-21T13:31:23Z'
+- :id: 9e7956d27a4c41189cbb3e50f040aef3
+  :provider: Thalia S
+  :model: iPad Air (3rd generation)
+  :serial: 4f14eb808083
+  :status: assigned
+  :assigned_at: '2021-09-16T14:52:11Z'
+  :assigned_to: Noel A
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-16T05:14:47Z'
+  :updated_at: '2021-09-16T14:52:11Z'
+- :id: 1e18c78b8d6841c3bd4e89ab3bc70004
+  :provider: Saul B
+  :model: iPad (6th generation)
+  :serial: b6f7faa661ca316e417a
+  :status: completed
+  :assigned_at: '2021-09-21T21:42:13Z'
+  :assigned_to: Noel A
+  :completed_at: '2021-09-22T03:10:27Z'
+  :completed_by: Noel A
+  :created_at: '2021-09-21T02:51:28Z'
+  :updated_at: '2021-09-22T03:10:27Z'
+- :id: fad62284efe24f5daf928ddf190214ae
+  :provider: Annette P
+  :model: iPad Air 2
+  :serial: 4a2997222530
+  :status: assigned
+  :assigned_at: '2021-09-16T20:13:27Z'
+  :assigned_to: Eli B
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-16T01:52:36Z'
+  :updated_at: '2021-09-16T20:13:27Z'
+- :id: 60e4cdaf86c848a1a8275fb2e2d77b1f
+  :provider: Abbey L
+  :model: iPad (5th generation)
+  :serial: 92c1ec52f1b95734499e
+  :status: completed
+  :assigned_at: '2021-09-12T17:35:24Z'
+  :assigned_to: Noel A
+  :completed_at: '2021-09-12T23:43:26Z'
+  :completed_by: Noel A
+  :created_at: '2021-09-12T01:32:20Z'
+  :updated_at: '2021-09-12T23:43:26Z'
+- :id: 4cfc9eb199b14353bdb5f0be823c74fa
+  :provider: Brendan F
+  :model: iPad Air (3rd generation)
+  :serial: 4f563db70c64
+  :status: completed
+  :assigned_at: '2021-09-13T03:09:10Z'
+  :assigned_to: Sarah T
+  :completed_at: '2021-09-13T07:23:53Z'
+  :completed_by: Sarah T
+  :created_at: '2021-09-12T10:47:28Z'
+  :updated_at: '2021-09-13T07:23:53Z'
+- :id: d9e32ae5799341d6b2f8b01da65afe3a
+  :provider: Abbey L
+  :model: iPad Pro (12.9-inch)
+  :serial: 9b781775541e87320eed
+  :status: assigned
+  :assigned_at: '2021-09-15T22:43:11Z'
+  :assigned_to: Noel A
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-15T04:53:15Z'
+  :updated_at: '2021-09-15T22:43:11Z'
+- :id: bd4c796eea7e49ac93d9559d9277696b
+  :provider: Saul B
+  :model: iPad Pro (12.9-inch)
+  :serial: 4443b8ed8db5
+  :status: assigned
+  :assigned_at: '2021-09-24T03:31:11Z'
+  :assigned_to: Dustin C
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-23T13:02:54Z'
+  :updated_at: '2021-09-24T03:31:11Z'
+- :id: fabcd59e462e43df891b52b185cabd6a
+  :provider: Kory T
+  :model: iPad (5th generation)
+  :serial: b0b0c6bb8162b07f8afb
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-12T23:17:25Z'
+  :updated_at: '2021-09-12T23:17:25Z'
+- :id: 06f878ed16c742a29a3002ee4d36bb38
+  :provider: Kirk H
+  :model: iPad Pro (12.9-inch)
+  :serial: 4a5e1b4bc702
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-17T12:13:20Z'
+  :updated_at: '2021-09-17T12:13:20Z'
+- :id: 8778220470604c53b914f1e5b2d5792b
+  :provider: Alison E
+  :model: iPad Air 2
+  :serial: bce1e9da36699b2057fb
+  :status: assigned
+  :assigned_at: '2021-09-18T10:44:31Z'
+  :assigned_to: Noel A
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-17T18:19:07Z'
+  :updated_at: '2021-09-18T10:44:31Z'
+- :id: 955409d33d9c4b5294d599bc715ec6fa
+  :provider: Brendan F
+  :model: iPad Air 2
+  :serial: 401452c62dc8
+  :status: completed
+  :assigned_at: '2021-09-17T15:03:10Z'
+  :assigned_to: Jane H
+  :completed_at: '2021-09-18T00:57:55Z'
+  :completed_by: Jane H
+  :created_at: '2021-09-17T03:54:51Z'
+  :updated_at: '2021-09-18T00:57:55Z'
+- :id: 87faacb43e0642cc85b58582d3a4545b
+  :provider: Graham N
+  :model: iPad (5th generation)
+  :serial: 9e190dec4a6de75a388b
+  :status: completed
+  :assigned_at: '2021-09-12T02:30:27Z'
+  :assigned_to: Dustin C
+  :completed_at: '2021-09-12T13:23:48Z'
+  :completed_by: Dustin C
+  :created_at: '2021-09-11T15:20:48Z'
+  :updated_at: '2021-09-12T13:23:48Z'
+- :id: 301849d2d2b94e528eed8d80b57f1204
+  :provider: Kirk H
+  :model: iPad Pro (11-inch)
+  :serial: 42d7a5201cfd
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-20T05:54:03Z'
+  :updated_at: '2021-09-20T05:54:03Z'
+- :id: 10fec02a76b744c9837deb23450a07f8
+  :provider: Cody G
+  :model: iPad (5th generation)
+  :serial: 967ef003e9bd640f0c24
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-24T10:50:29Z'
+  :updated_at: '2021-09-24T10:50:29Z'
+- :id: f621bfac44324f00a37ae08bbfe696d0
+  :provider: Abbey L
+  :model: iPad (6th generation)
+  :serial: 44fca75bc52e
+  :status: assigned
+  :assigned_at: '2021-09-16T09:36:29Z'
+  :assigned_to: Noel A
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-16T01:36:12Z'
+  :updated_at: '2021-09-16T09:36:29Z'
+- :id: 9667503958204fabb7aba9a6f4490dbd
+  :provider: Saul B
+  :model: iPad (5th generation)
+  :serial: b99dfaf76ffd65d33fca
+  :status: assigned
+  :assigned_at: '2021-09-16T14:15:11Z'
+  :assigned_to: Dustin C
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-15T23:17:17Z'
+  :updated_at: '2021-09-16T14:15:11Z'
+- :id: fe5c5ad8f4aa48f4832f89fe3cbc4e2e
+  :provider: Kory T
+  :model: iPad Pro (11-inch)
+  :serial: 4d309895274d
+  :status: completed
+  :assigned_at: '2021-09-13T13:50:09Z'
+  :assigned_to: Jane H
+  :completed_at: '2021-09-14T01:26:54Z'
+  :completed_by: Jane H
+  :created_at: '2021-09-12T20:37:03Z'
+  :updated_at: '2021-09-14T01:26:54Z'
+- :id: 5cad92e4e1034d7b9f62326da03814ca
+  :provider: Graham N
+  :model: iPad Air 2
+  :serial: bb8403826cd2d78a9ef5
+  :status: assigned
+  :assigned_at: '2021-09-14T04:43:35Z'
+  :assigned_to: Dustin C
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-13T13:15:58Z'
+  :updated_at: '2021-09-14T04:43:35Z'
+- :id: 5058bfcca30446fd93e113bb12c0e462
+  :provider: Saul B
+  :model: iPad Air 2
+  :serial: 4c1a7cbbd355
+  :status: completed
+  :assigned_at: '2021-09-13T06:12:48Z'
+  :assigned_to: Jane H
+  :completed_at: '2021-09-13T15:08:43Z'
+  :completed_by: Jane H
+  :created_at: '2021-09-12T20:27:00Z'
+  :updated_at: '2021-09-13T15:08:43Z'
+- :id: 17b6cb8a86d24377b4571b5024e9c79c
+  :provider: Brendan F
+  :model: iPad Air 2
+  :serial: 83609aa3cc8049733ef8
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-24T19:51:24Z'
+  :updated_at: '2021-09-24T19:51:24Z'
+- :id: 45e97a1df35549ebac326675d843f9cc
+  :provider: Jamie K
+  :model: iPad (6th generation)
+  :serial: 4a78624d051c
+  :status: assigned
+  :assigned_at: '2021-09-22T18:50:23Z'
+  :assigned_to: Sarah T
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-22T09:11:53Z'
+  :updated_at: '2021-09-22T18:50:23Z'
+- :id: 1337fd7f76384ebdbcf573ae049ce69b
+  :provider: Annette P
+  :model: iPad Pro (11-inch)
+  :serial: 9fb33892e019ae7d40a1
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-19T14:45:58Z'
+  :updated_at: '2021-09-19T14:45:58Z'
+- :id: 879d96d55c324dd5a476385801713a4f
+  :provider: Thalia S
+  :model: iPad Pro (11-inch)
+  :serial: 4f2b18abad14
+  :status: assigned
+  :assigned_at: '2021-09-24T23:41:45Z'
+  :assigned_to: Eli B
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-24T08:04:29Z'
+  :updated_at: '2021-09-24T23:41:45Z'
+- :id: a264cacfdc2d48d986a38e78a76b0ef9
+  :provider: Abbey L
+  :model: iPad Air (3rd generation)
+  :serial: 94603070b51c74c44274
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-20T19:02:24Z'
+  :updated_at: '2021-09-20T19:02:24Z'
+- :id: 1002020984814ceea408989b90abd15a
+  :provider: Diego R
+  :model: iPad Pro (12.9-inch)
+  :serial: 4cc3dcc9ef38
+  :status: completed
+  :assigned_at: '2021-09-16T13:26:20Z'
+  :assigned_to: Jane H
+  :completed_at: '2021-09-16T19:21:57Z'
+  :completed_by: Jane H
+  :created_at: '2021-09-15T21:01:44Z'
+  :updated_at: '2021-09-16T19:21:57Z'
+- :id: 7829d321db3c445e9550e13de512e01b
+  :provider: Saul B
+  :model: iPad Pro (11-inch)
+  :serial: 96d3646dc45a7dbabeb6
+  :status: assigned
+  :assigned_at: '2021-09-15T06:38:45Z'
+  :assigned_to: Jane H
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-14T20:02:06Z'
+  :updated_at: '2021-09-15T06:38:45Z'
+- :id: 148b34fbecd54508aad0cdf9a505386c
+  :provider: Thalia S
+  :model: iPad Air 2
+  :serial: 44fd7e8a77f3
+  :status: assigned
+  :assigned_at: '2021-09-15T00:45:18Z'
+  :assigned_to: Dustin C
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-14T05:48:22Z'
+  :updated_at: '2021-09-15T00:45:18Z'
+- :id: 22d85cc976514fa0b03b1aa4a779ba86
+  :provider: Cody G
+  :model: iPad Pro (11-inch)
+  :serial: a519bb86a27fd30dca40
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-12T03:26:55Z'
+  :updated_at: '2021-09-12T03:26:55Z'
+- :id: 1a5d63618e3f4017bd7cdf6e16c80a82
+  :provider: Abbey L
+  :model: iPad Pro (12.9-inch)
+  :serial: 4c7477e58156
+  :status: completed
+  :assigned_at: '2021-09-18T04:15:08Z'
+  :assigned_to: Noel A
+  :completed_at: '2021-09-18T10:12:29Z'
+  :completed_by: Noel A
+  :created_at: '2021-09-17T14:38:53Z'
+  :updated_at: '2021-09-18T10:12:29Z'
+- :id: 2fcc6d4e8b9343679b6cbddec17aa034
+  :provider: Dorothy M
+  :model: iPad Air (3rd generation)
+  :serial: 9ee91c5a5c652cf3fbc9
+  :status: assigned
+  :assigned_at: '2021-09-17T03:02:52Z'
+  :assigned_to: Dustin C
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-16T08:57:32Z'
+  :updated_at: '2021-09-17T03:02:52Z'
+- :id: 9970ba2f9b50451fabe3026a270e4587
+  :provider: Kory T
+  :model: iPad Air (3rd generation)
+  :serial: 42a4dda7b9c5
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-11T17:22:38Z'
+  :updated_at: '2021-09-11T17:22:38Z'
+- :id: 80a888a0de624541a614d37a5ab0d68b
+  :provider: Alison E
+  :model: iPad Pro (12.9-inch)
+  :serial: bae87980dbf368f26122
+  :status: unassigned
+  :assigned_at:
+  :assigned_to:
+  :completed_at:
+  :completed_by:
+  :created_at: '2021-09-13T11:41:52Z'
+  :updated_at: '2021-09-13T11:41:52Z'
